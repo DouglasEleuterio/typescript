@@ -1,0 +1,7 @@
+{
+  "compileOnSave":true,
+  "compilerOptions":{
+    "outDir":"dist",
+    "noEmitOnError":false //true - Não permite a gerar do arquivo JS caso exista algum erro.
+  }
+}
